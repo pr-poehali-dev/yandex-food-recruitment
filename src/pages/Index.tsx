@@ -345,9 +345,7 @@ const Index = () => {
               </div>
               <span className="font-semibold">Яндекс Еда</span>
             </div>
-            <div className="text-sm text-white/60">
-              © 2024 Информация о возможностях работы курьером
-            </div>
+            <div className="text-sm text-white/60">© 2025 Информация о возможностях работы курьером</div>
           </div>
         </div>
       </footer>
