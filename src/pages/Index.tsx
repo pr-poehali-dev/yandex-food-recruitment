@@ -343,7 +343,7 @@ const Index = () => {
               <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
                 <span className="text-xl">🛵</span>
               </div>
-              <span className="font-semibold">Яндекс Еда</span>
+              <span className="font-semibold">Еда-Работа</span>
             </div>
             <div className="text-sm text-white/60">© 2025 Информация о возможностях работы курьером</div>
           </div>
