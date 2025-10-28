@@ -29,7 +29,7 @@ const Index = () => {
             <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
               <span className="text-2xl">🛵</span>
             </div>
-            <span className="text-xl font-bold text-secondary">Яндекс Еда</span>
+            <span className="text-xl font-bold text-secondary">Еда-Работа</span>
           </div>
           <Button 
             asChild
